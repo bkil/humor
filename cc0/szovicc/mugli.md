@@ -1,0 +1,1 @@
+Mi a különbség a git force push és a push force között? Az erő.
