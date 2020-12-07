@@ -17,3 +17,5 @@ Azon nincs semmi meglepő, ha valakinek be nem áll a szája - mivel a legtöbb�
 Leborult a CPE antennája, ennyi volt a meshe mára.
 
 Hogy hívják a felvilágosult szélsőjobbost? Neonnáci
+
+Becézhetjük a `git shallow clone fetch` illetve a `git thin pack push` átvitelt `fetchke` illetve `pushka` néven?
