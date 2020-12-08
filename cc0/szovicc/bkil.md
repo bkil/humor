@@ -19,3 +19,5 @@ Leborult a CPE antennája, ennyi volt a meshe mára.
 Hogy hívják a felvilágosult szélsőjobbost? Neonnáci
 
 Becézhetjük a `git shallow clone fetch` illetve a `git thin pack push` átvitelt `fetchke` illetve `pushka` néven?
+
+🌊 🔱 🐟️ Miért nem törődik Poszeidón többet az alattvalóival? Mert **tengernyi** dolga van.
