@@ -32,3 +32,11 @@ Hogyan becézhetünk gyakori verziókezeléssel kapcsolatos kifejezéseket?
 - `git thin pack push`: **pushka**
 
 > 🐦️ 🐐 🔫
+
+## 6
+Jelölje be a megfelelőt! Minél hosszabb az UTP kábel, annál nagyobb a(z):
+
+- kapacitás
+- késleltetés
+- öröm
+- mosható ruhák mennyisége
