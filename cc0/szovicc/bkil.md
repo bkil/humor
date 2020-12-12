@@ -29,3 +29,9 @@
 - Mert **tengernyi** dolga van.
 
 > 🌊 🔱 🐟️ _tengerek istene_
+
+## 6
+- Mire építkeztek Kőműves Kelemen tárgyalásán?
+- A **feleségére**, mert a gyanú **megalapozott** volt.
+
+> 👷 🏗️👰 _bíróság, befalazás_
