@@ -1,23 +1,31 @@
-Hogyan működnek a vízibiciklis forgalomszámlálók? Haleffekt szenzorral
+# bkil szóviccei
 
-A túlsúlyos szerelmi vágy más szóval? Lipidó
+## 1
+- Hogyan működnek a vízibiciklis forgalomszámlálók?
+- **Haleffekt** szenzorral
 
-Ha valakinek mocskos a fantáziája, annak kell egy fejmosás? Ha elköveti azt az arcátlanságot, hogy behajol a mosógépbe, fejetlenség lesz úrrá a szobában? Csak utána nehogy kiteregesse a szennyest miután tisztára mosta a nevét.
+> 🚲 🔢 🐟️
 
-Szomorú könyvelőkre specializálódott szemész: KÖNNYVIZSGÁLÓ
+## 2
+- Hogy hívják a túlsúlyos szerelmi vágyat más szóval?
+- Lipidó
 
-Mik teszik lehetővé a madarak különféle fákhoz való kapcsolódását? Az interfészek.
+> ❤️ ⚖️
 
-Hogy mondjuk angolul amikor társadalmi kényszerre fut ki a körtecefre? Pear pressure.
+## 3
+- Hogy hívják a szomorú könyvelőkre specializálódott szemészt?
+- Könnyvizsgáló
 
-Hirtelen party hangulatom támadt attól, hogy kiírta a gép: disco-neck-Ted
+> ☹️ 📚️ 👓️
 
-Azon nincs semmi meglepő, ha valakinek be nem áll a szája - mivel a legtöbbünknek kiáll. Főleg a jó kiállásúaknak. Nem úgy a kiállhatatlanoknak.
+## 4
+- Hogy hívják a felvilágosult szélsőjobbost?
+- Neonnáci
 
-Leborult a CPE antennája, ennyi volt a meshe mára.
+> 💡 🔦
 
-Hogy hívják a felvilágosult szélsőjobbost? Neonnáci
+## 5
+- Miért nem törődik Poszeidón többet az alattvalóival?
+- Mert **tengernyi** dolga van.
 
-Becézhetjük a `git shallow clone fetch` illetve a `git thin pack push` átvitelt `fetchke` illetve `pushka` néven?
-
-🌊 🔱 🐟️ Miért nem törődik Poszeidón többet az alattvalóival? Mert **tengernyi** dolga van.
+> 🌊 🔱 🐟️ _tengerek istene_
