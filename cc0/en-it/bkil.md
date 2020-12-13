@@ -5,3 +5,9 @@
 - Unrecognized, it suggests instead: `Install Windows`
 
 > 🖥️️ 🐧 ✍️ 🤖
+
+## 2
+- What is a Jira gathering good for?
+- To discuss our issues
+
+> 🎫 📊 🗣️ 🙋
