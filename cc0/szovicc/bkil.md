@@ -42,3 +42,10 @@
 - Aki sokat markol - keveset fog
 
 > ⛏️ 🔧 👐
+
+## 8
+
+- Hogy hívják a tetőtéri lakást ami híres a házi tollairól?
+- **Penhouse** apartman.
+
+> 🖊️ 🏠️ 🔝
