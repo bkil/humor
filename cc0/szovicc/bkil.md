@@ -35,3 +35,10 @@
 - A **feleségére**, mert a gyanú **megalapozott** volt.
 
 > 👷 🏗️👰 _bíróság, befalazás_
+
+## 7
+
+- Mondás a markolókról és a fogókról:
+- Aki sokat markol - keveset fog
+
+> ⛏️ 🔧 👐
