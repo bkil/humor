@@ -40,3 +40,11 @@ Jelölje be a megfelelőt! Minél hosszabb az UTP kábel, annál nagyobb a(z):
 - késleltetés
 - öröm
 - mosható ruhák mennyisége
+
+> ⌛️ 🔌 👕 📏
+
+## 7
+- Melyik a tervminták közül a hippopotamus gyilkosság?
+- A vízitor
+
+> 🌊 🐃 🗡️
