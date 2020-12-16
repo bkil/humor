@@ -48,3 +48,8 @@ Jelölje be a megfelelőt! Minél hosszabb az UTP kábel, annál nagyobb a(z):
 - A vízitor
 
 > 🌊 🐃 🗡️
+
+## 8
+Örömmel látom az ipari kijelzőn, hogy végre megtalálták hol kell betűtípust állítani - előtte FONTatlanság volt.
+
+> ✍️ 🔣 🔤 📺️
