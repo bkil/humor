@@ -53,3 +53,9 @@ Jelölje be a megfelelőt! Minél hosszabb az UTP kábel, annál nagyobb a(z):
 Örömmel látom az ipari kijelzőn, hogy végre megtalálták hol kell betűtípust állítani - előtte FONTatlanság volt.
 
 > ✍️ 🔣 🔤 📺️
+
+## 9
+- Melyek a legrugalmasabb gyűrésférgek projektmenesment szempontból?
+- Agilisták.
+
+> 🐛 🏢 💼
